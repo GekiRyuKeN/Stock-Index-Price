@@ -1226,6 +1226,4 @@ with tab4:
 		st.write("#### Prediction Model Performance")
 		st.table(df_score)
     
-st.text('')
-st.write("## THANKS FOR VISITING!")
-st.write('Created by: [Hai Vu](https://www.linkedin.com/in/hai-vu/)')
+
